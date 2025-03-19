@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on [Industrial Omni-Directional Robot](https://github.com/PankajaBalasooriya/OmniDirectionalRobot-EN2160),[ SLRC 2025](https://github.com/PankajaBalasooriya/SLRC-2025-Pulztrones), [SLiOT 2025]
+- 🔭 I’m currently working on [Industrial Omni-Directional Robot](https://github.com/PankajaBalasooriya/OmniDirectionalRobot-EN2160),[ SLRC 2025](https://github.com/PankajaBalasooriya/SLRC-2025-Pulztrones), [SLiOT 2025](https://github.com/Banu-Liyanage/Fault-Detection-System-using-Audio-Processing)
 
 - 🌱 I’m currently learning **Control Systems, Electronic Circuit design,FPGA and ASIC Designing**
 
