@@ -2,8 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Banuka Liyanage</h1>
 <p align="center">
-  <b>FPGA • Embedded Systems • Aerospace AI (RL) • Signal Integrity</b><br/>
-  Building reliable hardware–software systems from physics → algorithms → HDL → deployment.
+  <b>Medical Devices • Embedded Systems • Robotics • Signal Processing</b><br/>
+  Building reliable embedded systems from concept → algorithms → designing → deployment.
 </p>
 
 <p align="center">
@@ -22,14 +22,15 @@
 
 ## 🧠 About Me
 
-I’m an engineer working across **FPGA digital design**, **embedded systems**, and **aerospace autonomy**.  
-I enjoy turning messy real-world constraints (timing, noise, power, interfaces) into **clean, verifiable implementations**.
+I'm a third-year engineering undergraduate in the Department of Electronic and Telecommunication Engineering, University of Moratuwa, specializing in Electronics and Biomedical Engineering. My interests are mainly in the field of **electronics**, including **Digital and Analog Electronics**, **Robotics** and **Embedded Systems**. Further, I have a passion for wearable technologies and am eager to learn more.  
 
-- ⚡ High-speed digital & SI (LVDS, termination, clocking, sampling alignment)
-- 🧩 FPGA IP design (ISERDES/MMCM, bitslip alignment, deskew, AXI)
-- 🛰️ Reinforcement Learning for satellite conjunction/collision avoidance
-- 🔥 Zynq hardware–software co-design (AXI Lite + PetaLinux integration)
-- 📡 Low-power RF + ultra-compact biomedical electronics concepts
+Currently, I'm working on these projects that include Biomedical applications, Robotics, and Embedded Systems:
+
+- 📡 Low-power RF + ultra-compact electronics concepts for a GI tracking Capsule.
+- 🤖🤚 Tactile-Sensing Based system for robotic manipulation. 
+- 🧩 Algorithm Learning for manipulation and navigation. 
+- 🔥Reinforcement Learning techniques and VLA models.
+- 📡RF PCB designing and testing. 
 
 ---
 
