@@ -41,40 +41,36 @@ Currently, I'm working on these projects that include Biomedical applications, R
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/HDL-Verilog%20%7C%20SystemVerilog-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FPGA-Xilinx%20Vivado-0065A9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embedded-Zynq%20%7C%20ESP32%20%7C%20SAM3X8E-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Aerospace-RL%20%7C%20SGP4%20%7C%20Orekit-FF8C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Hardware-Altium%20%7C%20SolidWorks-B30000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded-STM32%20%7C%20SAM3X8E%20%7C%20ESP32%20%7C%20Arduino-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Robotics%20&%20IoT-ROS%202%20%7C%20Raspberry%20Pi-FF8C00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML%20&%20Data-Python%20%7C%20Pandas%20%7C%20Scikit--Learn-0065A9?style=for-the-badge"/>
 </p>
 
 ---
 
 ## 📌 Featured Projects
 
-> Replace the repo links below with your actual repositories.
-
 <table>
   <tr>
     <td width="50%">
-      <h3>⚡ High-Speed LVDS Receiver IP</h3>
+      <h3>💊 GI Tract Smart Capsule</h3>
       <p>
-        7:1 deserialization using <b>ISERDES</b>, word alignment via <b>bitslip</b>, and clock domain management.
-        Includes verification strategy + real hardware debug learnings.
+        Ingestible biomedical device designed to measure pH and track position through the gastrointestinal tract. Features sub-GHz RF (CC1310), IMUs, and power-optimized architecture.
       </p>
       <p>
-        <a href="https://github.com/Banu-Liyanage/lvds-rx-ip">
+        <a href="https://github.com/Banu-Liyanage/GI-Tract_Capsule">
           <img src="https://img.shields.io/badge/Repo-Open-181717?style=for-the-badge&logo=github"/>
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3>🛰️ RL Satellite Collision Avoidance</h3>
+      <h3>🏥 HealTrack: IoT Medibox</h3>
       <p>
-        PPO-based agent for avoidance burns using miss distance, Δv cost, and collision probability shaping.
-        Dataset tooling for TLE/CDM workflows.
+        Smart medication monitoring system built to assist patients with timely medication adherence. Features IoT connectivity and microcontroller-based automation.
       </p>
       <p>
-        <a href="https://github.com/Banu-Liyanage/rl-satellite-collision-avoidance">
+        <a href="https://github.com/Banu-Liyanage/HealTrack-IoT-Medication-Monitoring-System">
           <img src="https://img.shields.io/badge/Repo-Open-181717?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -83,25 +79,23 @@ Currently, I'm working on these projects that include Biomedical applications, R
 
   <tr>
     <td width="50%">
-      <h3>🌡️ DS18B20 Multi-Sensor Temp Monitor (Zynq)</h3>
+      <h3>♻️ RealWaste CNN Classifier</h3>
       <p>
-        One-Wire controller in PL with <b>AXI Lite</b> register interface + Linux/PetaLinux access from PS.
-        Designed for thermal management use-cases.
+        Convolutional Neural Network model designed for automated waste classification and sorting, leveraging computer vision and deep learning.
       </p>
       <p>
-        <a href="https://github.com/Banu-Liyanage/ds18b20-axi-onewire">
+        <a href="https://github.com/Banu-Liyanage/RealWaste_CNN_Banuka">
           <img src="https://img.shields.io/badge/Repo-Open-181717?style=for-the-badge&logo=github"/>
         </a>
       </p>
     </td>
     <td width="50%">
-      <h3>📡 Ultra-Low-Power Biomedical Capsule (Concept)</h3>
+      <h3>🤖 Python Robotics Algorithms</h3>
       <p>
-        RF telemetry and power-gated architecture exploration for an ultra-compact capsule.
-        Focus: power budgeting, RF constraints, mechanical integration.
+        Collection of control, navigation, and path-planning algorithms implemented in Python. Useful for testing logic for mobile and omnidirectional robotic platforms.
       </p>
       <p>
-        <a href="https://github.com/Banu-Liyanage/biomedical-capsule-concept">
+        <a href="https://github.com/Banu-Liyanage/PythonRoboticsAlgorithms">
           <img src="https://img.shields.io/badge/Repo-Open-181717?style=for-the-badge&logo=github"/>
         </a>
       </p>
@@ -123,12 +117,13 @@ Currently, I'm working on these projects that include Biomedical applications, R
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Banu-Liyanage&show_icons=true&hide_border=true&theme=dark" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Banu-Liyanage&hide_border=true&theme=dark" />
-</p>
+<div align="center">
 
----
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Banu-Liyanage&show_icons=true&hide_border=true&theme=dark&v=999)](https://github.com/Banu-Liyanage)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Banu-Liyanage&hide_border=true&theme=dark&timezone=Asia/Colombo&v=999)](https://github.com/Banu-Liyanage)
+
+</div>
+
 
 ## 🧩 Contributions
 
@@ -143,29 +138,19 @@ Currently, I'm working on these projects that include Biomedical applications, R
 
 ---
 
-## 🏷️ Badges (Editable)
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-FPGA%20%26%20Embedded-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Currently-RL%20for%20Space-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tools-Vivado%20%7C%20MATLAB%20%7C%20Linux-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Biomedical%20Robotics%20%26%20IoT-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Currently-Developing%20GI%20Tract%20Capsule-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seeking-2025--2026%20Internship-6A5ACD?style=for-the-badge" />
 </p>
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: https://www.linkedin.com/in/YOUR_LINKEDIN/
-- Email: YOUR_EMAIL@example.com
+- LinkedIn: https://www.linkedin.com/in/banuka-liyanage-2479542a8/
+- Email: banuka2002liyanage@gmail.com
 
 ---
 
-<details>
-  <summary><b>📌 Notes (click)</b></summary>
 
-- Replace <code>Banu-Liyanage</code> everywhere.
-- Replace repo URLs with your real repositories.
-- If any section feels too long, remove the “More Projects” list first.
-- Keep the top section short so visitors see projects + stats quickly.
-
-</details>
